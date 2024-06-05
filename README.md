@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas ao meu perfil!
 
-<!--
-**GustavoP1711/GustavoP1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gustavo Pereira.
 
-Here are some ideas to get you started:
+-EStou estudando no Alura 
+-Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo📧
+
+00001114426428sp@al.educacao.sp.gov.br
+
+-@guu_pereira7
+
+![](https://media.tenor.com/ttFRhdNIsBYAAAAM/luciano-chutando.gif)
